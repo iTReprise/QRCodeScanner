@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QR Code Scanner</string>
+    <string name="prompt">Scan a QR Code.</string>
+    <string name="successful">Scanned:\u0020</string>
+    <string name="failure">Failed to scan. Try again.</string>
+    <string name="wrongIntent">No Activity found to handle Intent.</string>
+</resources>
